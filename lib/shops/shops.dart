@@ -12,6 +12,8 @@ class Shop {
       photo;
   int idShop, idCategory, idSeller;
 
+  List<int> sales = new List();
+
   Shop(
       {this.nom,
       this.description,

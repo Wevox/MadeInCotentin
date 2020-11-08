@@ -8,9 +8,10 @@ import 'package:intl/intl.dart'; //for date format
 import 'package:intl/date_symbol_data_local.dart';
 
 class SaleTile extends StatefulWidget {
+  bool tappable;
   Sale sale;
 
-  SaleTile({this.sale});
+  SaleTile({this.sale, this.tappable = true});
 
   @override
   State<StatefulWidget> createState() {
@@ -57,15 +58,17 @@ class SaleTileState extends State<SaleTile> {
                     ))
               ],
             )),
-            CachedNetworkImage(
-                width: 150,
+        ((this.widget.sale.photo != null && this.widget.sale.photo != "" )? CachedNetworkImage(
+                width: 120,
                 height: 150,
                 fit: BoxFit.cover,
                 imageUrl: configData.imgUrl + this.widget.sale.photo)
+            :Image.asset("assets/no_photo_mc.png"))
           ],
         ),
       ),
       onTap: () {
+        if(!this.widget.tappable){return;}
         Navigator.push(
             context,
             CupertinoPageRoute(
@@ -83,7 +86,8 @@ class SaleTileState extends State<SaleTile> {
                         )),
                     body: ShopView(
                       shop: configData.shops[this.widget.sale.idShop],
-                    ))));
+                    ),
+                )));
       },
     );
   }

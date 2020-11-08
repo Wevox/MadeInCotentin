@@ -1,5 +1,6 @@
 import 'package:basic_utils/basic_utils.dart';
 import 'package:cached_network_image/cached_network_image.dart';
+import 'package:cherboug/sales/SaleTile.dart';
 import 'package:cherboug/shops/shops.dart';
 import 'package:expandable/expandable.dart';
 import 'package:flutter/cupertino.dart';
@@ -23,6 +24,25 @@ class ShopViewState extends State<ShopView> {
 
   @override
   Widget build(BuildContext context) {
+    List<Widget> salesListTiles = new List();
+
+    if (this.widget.shop.sales.length > 0) {
+        salesListTiles.add(Text(
+            (this.widget.shop.sales.length.toString() + " promotion"+ ((this.widget.shop.sales.length > 1) ? "s":"") +" en cours\n").toUpperCase(),
+            style: TextStyle(fontSize: 20, ),
+        ));
+      this.widget.shop.sales.forEach((element) {
+        salesListTiles.add(SaleTile(
+          sale: configData.sales[element],
+            tappable: false,
+        ));
+      });
+    } else {
+      salesListTiles.add(Text(
+        "Ce commerçant n'a aucune promotion en cours",
+        style: TextStyle(fontSize: 15, fontStyle: FontStyle.italic),
+      ));
+    }
     return ListView(
       children: [
         Container(
@@ -31,7 +51,8 @@ class ShopViewState extends State<ShopView> {
             color: Colors.white, //new Color.fromRGBO(255, 0, 0, 0.0),
             // borderRadius: new BorderRadius.only(topLeft: const Radius.circular(15.0), topRight: const Radius.circular(15.0)),
             image: DecorationImage(
-                image: (this.widget.shop.photo == null || this.widget.shop.photo == ""
+                image: (this.widget.shop.photo == null ||
+                        this.widget.shop.photo == ""
                     ? AssetImage("assets/no_photo_mc.png")
                     : CachedNetworkImageProvider(
                         configData.imgUrl + this.widget.shop.photo)),
@@ -95,7 +116,8 @@ class ShopViewState extends State<ShopView> {
                     color: color,
                   )),
               Text(
-                StringUtils.addCharAtPosition(this.widget.shop.phone.replaceAll(".", ""), " ", 2,
+                StringUtils.addCharAtPosition(
+                    this.widget.shop.phone.replaceAll(".", ""), " ", 2,
                     repeat: true),
                 style: TextStyle(fontSize: 15),
               )
@@ -166,12 +188,7 @@ class ShopViewState extends State<ShopView> {
         Container(
             padding: EdgeInsets.only(top: 30),
             child: Column(
-              children: [
-                Text(
-                  "Ce commerçant n'a aucune promotion en cours",
-                  style: TextStyle(fontSize: 15, fontStyle: FontStyle.italic),
-                )
-              ],
+              children: salesListTiles,
             ))
       ],
     );

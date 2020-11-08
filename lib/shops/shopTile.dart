@@ -51,13 +51,13 @@ class ShopTileState extends State<ShopTile> {
                     imageUrl: configData.imgUrl + this.widget.shop.photo,
                     errorWidget: (context, url, error) => Image.asset(
                         "assets/no_photo_mc.png",
-                        height: 150,
+                         height : 120,
                         width: 150,
                         fit: BoxFit.cover),
                   )
                 : Image.asset(
                     "assets/no_photo_mc.png",
-                    height: 150,
+                    height: 120,
                     width: 150,
                     fit: BoxFit.cover,
                   ))

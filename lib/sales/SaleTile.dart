@@ -1,5 +1,6 @@
 import 'package:cherboug/sales/Sale.dart';
 import 'package:cherboug/shops/shopView.dart';
+import 'package:cherboug/time.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:cached_network_image/cached_network_image.dart';
@@ -47,15 +48,14 @@ class SaleTileState extends State<SaleTile> {
                   overflow: TextOverflow.ellipsis,
                 ),
                 Padding(
-                    padding: EdgeInsets.only(top: 10),
+                    padding: EdgeInsets.only(left: 20, top: 10),
                     child: Row(
                       children: [
                         Icon(Icons.watch_later_outlined),
-                        Text("Jusqu'au " +
-                            DateFormat("EEE dd MMM yyyy")
-                                .format(this.widget.sale.endDateTime))
+                        Container(padding: EdgeInsets.only(left: 10), width:150, height: 60,child:CountDownTimer(endTimer: this.widget.sale.endDateTime ,))
                       ],
                     ))
+                // Padding(padding: EdgeInsets.only(top: 10), child: CountDownTimer(endTimer: this.widget.sale.endDateTime ,),)
               ],
             )),
         ((this.widget.sale.photo != null && this.widget.sale.photo != "" )? CachedNetworkImage(

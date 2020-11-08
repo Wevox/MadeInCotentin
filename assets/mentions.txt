@@ -1,0 +1,186 @@
+****************
+Mentions légales
+****************
+
+Made In Cotentin est une application gérée par [organisation qui recevra le projet] :
+Code APE :
+Siret :
+Email :
+Téléphone :
+Responsable de la publication :
+ 
+Hébergeur :
+RCS :
+Adresse siège social :
+Email :
+Téléphone :
+
+Site développé avec [système de gestion de contenu choisi par l'équipe], des programmes Open Source écrits en [langage de programmation choisi] sous licence [GNU GPL].
+
+Conformément à la réglementation Informatique et Libertés, vous pouvez exercer vos droits (vous pouvez à tout moment modifier ou supprimer les renseignements liés à votre utilisation) sur des données personnelles qui vous concerneraient auprès du Délégué à la Protection des Données de l'[organisation] à l'adresse [adresse email du DPO de l'organisation].
+
+Ce site est protégé par la loi du 1er juillet 1998 sur la protection juridique des bases de données et de tous ses éléments, tel que les textes, les logos, les graphismes, les images et photos, qui sont la propriété exclusive de l'[organisation]. Toute utilisation, y compris la reproduction même partielle, la modification, la distribution, la transmission, l'affichage du contenu ou de l'un quelconque des éléments de ce site est strictement interdite sans accord écrit de l'[organisation]. Ces éléments sont protégés par la loi française et les lois internationales de protection de la propriété intellectuelle.
+Tout contrevenant à cette protection fera l'objet de poursuites. Sauf indications contraires (documents libres de droits), si vous souhaitez utiliser des photos ou des textes sur ce site, vous pouvez nous contacter à [adresse email de contact]. Par ailleurs, l'utilisation des informations contenues sur le présent site relève de la seule responsabilité de l'utilisateur. Nous ne pourrions en aucun cas, et pour quelque cause que ce soit, en être tenus pour responsables, et ce, quelles qu'en soient les conséquences. Nous ne sommes responsables d'aucune erreur ou omission sur le présent site.
+
+Extraits du Code de la Propriété Intellectuelle :
+-  Art L.335-2 (Loi nº 94-102 du 5 février 1994 art. 1 Journal Officiel du 8 février 1994) (Loi nº 98-536 du 1 juillet 1998 art. 4 Journal Officiel du 2 juillet 1998) (Ordonnance nº 2000-916 du 19 septembre 2000 art. 3 Journal Officiel du 22 septembre 2000 en vigueur le 1er janvier 2002) Toute édition d'écrits, de composition musicale, de dessin, de peinture ou de toute autre production, imprimée ou gravée en entier ou en partie, au mépris des lois et règlements relatifs à la propriété des auteurs, est une contrefaçon ; et toute contrefaçon est un délit. La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est punie de deux ans d'emprisonnement et de 150 000 euros d'amende . Seront punis des mêmes peines le débit, l'exportation et l'importation des ouvrages contrefaits.
+-  Art L.335-3 (Loi nº 94-361 du 10 mai 1994 art. 8 Journal Officiel du 11 mai 1994) (Loi nº 98-536 du 1 juillet 1998 art. 4 Journal Officiel du 2 juillet 1998) Est également un délit de contrefaçon toute reproduction, représentation ou diffusion, par quelque moyen que ce soit, d'une œuvre de l'esprit en violation des droits de l'auteur, tels qu'ils sont définis et réglementés par la loi. Est également un délit de contrefaçon la violation de l'un des droits de l'auteur d'un logiciel définis à l'article L. 122-6.
+
+
+**********************************
+Conditions générales d'utilisation
+**********************************
+
+L'application Made In Cotentin est exploitée dans le respect de la législation française. L’utilisation de ce site est régie par les présentes conditions générales. En utilisant le site, vous reconnaissez avoir pris connaissance de ces conditions et les avoir acceptées. Celles-ci pourront être modifiées à tout moment et sans préavis par [nom de l'organisation], qui ne saurait être tenu pour responsable en aucune manière d’une mauvaise utilisation du service.
+
+
+1 - DEFINITIONS
+Pour l'interprétation des présentes Conditions Générales d'Utilisation de la plateforme « [nom de la plateforme] », les termes employés ci-après, au pluriel ou au singulier, sont définis de la façon suivante :
+Contributeur commerçant, ci-après "commerçant" : *si système de compte choisi : désigne toute personne physique ou morale ayant créé un « Compte commerçant » par lequel il accepte les conditions générale, et se connecte à l'aide d'un identifiant et mot de passe qui lui sont strictement personnels et confidentiels et qui intervient sur la Plateforme soit pour publier une proposition + *option si commentaires possibles : soit pour commenter une proposition accessible sur la Plateforme.
+Contributeur commerçant : *autre système : désigne toute personne ayant contacté l'Editeur de la plateforme, via celle-ci ou email, et accepté les conditions générales, pour faire publier (*et commenter) une proposition sur la plateforme.
+Contributeur consommacteur, ci-après "consommacteur" : *si système de compte choisi : désigne toute personne physique ayant créé un « Compte consommacteur » par lequel il accepte les conditions générales, et se connecte à l'aide d'un identifiant et mot de passe qui lui sont strictement personnels et confidentiels et qui intervient sur la Plateforme soit pour publier une proposition + *option si commentaires possibles : soit pour commenter une proposition accessible sur la Plateforme.
+Contributeur consommacteur, ci-après "consommacteur" : *autre système : désigne toute personne ayant contacté l'Editeur de la plateforme, via celle-ci ou email, et accepté les conditions générales, pour faire publier (*et commenter) une proposition sur la plateforme.
+Contribution : désigne toute proposition ou avis sur une proposition rédigé par un Contributeur et susceptible d’être modifié dans un délai de [délai en lettres et en chiffres].
+[Nom de la plateforme] : désigne la Plateforme en ligne accessible à tous et regroupant les Propositions des Contributeurs et de l’Editeur.
+Contenu : désigne l'ensemble des éléments constituants l’information présente sur la plateforme, notamment textes – images – vidéos.
+*Compte : désigne l'espace personnel d'un commerçant ou consommacteur sur le site [URL de la plateforme] lui permettant d'accéder à des contenus spécifiques et de contribuer à la création de Contenus sur la Plateforme.
+Plateforme : désigne l'outil dématérialisé [nom de la plateforme], accessible à tous via le Site et par laquelle les Utilisateurs peuvent contribuer via leur « Compte ».
+Visiteur : désigne toute personne ayant accès et/ou utilisant le Site sans avoir pour autant ouvert un « Compte » ou utilisé un Service.
+
+2. OBJET
+2.1 OBJET DU SITE
+Le site internet [URL plateforme] a pour objet de fournir une information concernant l’ensemble des activités des commerçants locaux, et initialement de mettre en avant leurs adaptations au contexte particulier induit par l'état d'urgence sanitaire (décret n°2020-1310 du 29 octobre 2020 prescrivant les mesures générales nécessaires pour faire face à l'épidémie de Covid-19 dans le cadre de l'état d'urgence sanitaire).
+Une fois sorti du cadre de l'état d'urgence sanitaire, cette plateforme peut perdurer pour soutenir le commerce local et faciliter la mise en relation consommacteur-commerçant.
+Pour se faire, la plateforme :
+- référence et présente les commerçants,
+*- permet aux consommacteurs de commenter les propositions des commerçants pour ajouter des précisions, ou soutenir les propositions des commerçants.
+En tout état de cause, l’activité de la plateforme se limite au référencement des Commerçants. Dès lors, la plateforme ne peut en aucun cas être considérée comme le prestataire des services proposés par les Commerçants via le Site [URL plateforme].
+[URL plateforme] s’efforce de fournir sur le site [URL plateforme] des informations aussi précises que possible. Toutefois, il ne pourra être tenu responsable des oublis, des inexactitudes et des carences dans la mise à jour, qu’elles soient de son fait ou du fait des tiers partenaires qui lui fournissent ces informations.
+Toutes les informations indiquées sur la plateforme sont données à titre indicatif, et sont susceptibles d’évoluer. Par ailleurs, les renseignements figurant sur la plateforme ne sont pas exhaustifs. Ils sont donnés sous réserve de modifications ayant été apportées depuis leur mise en ligne.
+
+
+2.2 OBJET DES CGU
+Les présentes CGU ont pour objet de définir les conditions et modalités d'utilisation de la Plateforme de participation proposée par l’Editeur et accessible à tous.
+L’Editeur a mis en place une Plateforme participative, dénommée [nom de la plateforme], permettant aux Contributeurs de [possibilités d'action].
+Les Contributeurs commerçants et consommacteurs sont invités à participer de deux manières :
+*En donnant leur avis sur les propositions déjà publiées sur la plateforme, ou les commentant ;
+*En partageant leurs propositions pour enrichir de leur expérience et de leurs idées l'ensemble du projet.
+
+
+3. CHAMP D'APPLICATION
+Les CGU de [nom de la plateforme] s'appliquent, sans restriction ni réserve, à tous les services proposés sur la Plateforme.
+Les CGU de [nom de la plateforme] sont additionnelles, le cas échéant, aux conditions particulières applicables à certains services proposés au sein des différentes rubriques du Site.
+Les CGU de [nom de la plateforme] prennent effet à compter de leur publication sur le Site et restent en vigueur jusqu'à leur modification partielle ou totale par l’Editeur.
+
+
+4. PROCESSUS DE CRÉATION D'UNE CONTRIBUTION
+4.1 CREATION DE CONTRIBUTION
+*si contribution ouverte avec système de "compte" : Seuls les Contributeurs peuvent participer. Cela signifie que la création d'une Contribution ou sa modification suppose d'avoir (i) créé un Compte, et (ii) accepté, pleinement et sans réserve, les CGU du Site.
+*si publication uniquement par l'organisation gérant la plateforme : Seuls les personnes autorisées à publier sur la plateforme peuvent ajouter des contribution des utilisateurs
+Les informations soumises par le Contributeur lors de la création de son Compte et permettant de l'identifier sont exactes et sincères.
+Un contributeur peut déposer [nombre de contributions et modalités de dépôt]. Chaque Contribution est modifiable pendant une durée de [délai de modification] à compter de sa mise en ligne par son auteur.
+
+
+4.2 FORMES DE CONTRIBUTIONS
+Afin de permettre à chacun de s’exprimer, le format d’une proposition est fixé à 1000 signes au maximum.
+Chaque Contributeur peut choisir que sa proposition soit publiée sous son nom ou sous un pseudonyme lorsqu'il s'agit d'un commentaire.
+Le choix de l’usage du pseudonyme implique le respect des règles suivantes :
+Il n’est pas permis d’usurper l’identité d’une autre personne physique ou morale, de choisir un pseudonyme de nature à créer la confusion ou à tourner en dérision une personne physique ou morale.
+Les pseudonymes contenant des allusions racistes, sexistes, homophobes ou xénophobes sont également interdits.
+L’utilisation d’un pseudonyme n’exonère son utilisateur ni de sa responsabilité pénale ni de sa responsabilité civile qui pourraient résulter des contenus publiés, et ce même lorsqu’ils auraient été supprimés à leur initiative et/ou à celle de l’Editeur.
+Le Contributeur à l'origine d'une Contribution doit s'assurer que son texte est conforme aux lois et réglementations en vigueur, à l'ordre public, aux présentes CGU ainsi qu'à la Charte de modération [lien] de la plateforme.
+Le Contributeur accepte par les présentes que ses Contributions sur la Plateforme soient [commentées, enrichies et modifiées par la communauté de Contributeurs, sous réserve de son acceptation, et] consultées par l'ensemble des Visiteurs de la Plateforme.
+
+
+4.3 REFERENCEMENT DES CONTRIBUTIONS
+Toutes les Contributions publiées sur la Plateforme sont susceptibles d'être référencées sur un moteur de recherche et, donc, d'être consultées par un public extérieur qui aura accès aux données publiques définies par le Contributeur lors de l’ouverture de son Compte.
+
+
+5; MODERATION DES CONTENUS
+Il est de la responsabilité des Contributeurs de veiller à ce que leurs Contenus ne portent pas atteinte aux droits et libertés d'autrui et soient conformes à la réglementation en vigueur.
+La publication de Contenus fournis par le Contributeur fait l'objet d'une modération a postériori par l’Editeur qui se réserve le droit de retirer/supprimer un Contenu qui ne serait pas conforme aux lois et règlements, aux présentes CGU ou à la Charte de modération [lien] de la plateforme.
+Le Contributeur et le Visiteur sont invités à signaler à l’Editeur tout Contenu contraire aux principes et valeurs ci-dessus énumérés, via les liens de signalement figurant sur le Site ou en adressant un courriel à l’adresse [adresse de contact].
+
+
+6. LIMITATION DE RESPONSABILITÉ DE L’EDITEUR
+Les informations contenues sur ce site sont aussi précises que possibles et le site est périodiquement remis à jour, mais peut toutefois contenir des inexactitudes, des omissions ou des lacunes. Si vous constatez une lacune, erreur ou ce qui parait être un dysfonctionnement, merci de bien vouloir le signaler par courriel à l'adresse [adresse de contact] en décrivant le problème de la manière la plus précise possible (page posant problème, action déclenchante, type d’ordinateur et de navigateur utilisé…).
+Tout contenu téléchargé se fait aux risques et périls de l’utilisateur et sous sa seule responsabilité. En conséquence, [nom de l'organisation] ne saurait être tenu responsable d’un quelconque dommage subi par l’ordinateur de l’utilisateur ou d’une quelconque perte de données consécutives au téléchargement.
+Les liens hypertextes mis en place dans le cadre du présent site internet en direction d’autres ressources présentes sur le réseau Internet ne sauraient engager la responsabilité de [nom de l'organisation].
+
+
+7. DECLARATION A LA CNIL
+Conformément à la loi 78-17 du 6 janvier 1978 (modifiée par la loi 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l’égard des traitements de données à caractère personnel) relative à l’informatique, aux fichiers et aux libertés, le site a fait l’objet d’une déclaration auprès de la Commission nationale de l’informatique et des libertés (www.cnil.fr).
+
+
+8. DROIT D'ACCES ET CONFIDENTIALITE
+En application de cette loi, les internautes disposent d’un droit d’accès, de rectification, de modification et de suppression concernant les données qui les concernent personnellement. Ce droit peut être exercé par voie postale auprès de [nom de l'organisation] ou par voie électronique à l'adresse [adresse de contact]. Les informations personnelles collectées ne sont en aucun cas confiées à des tiers.
+
+
+
+****************************
+Politique de confidentialité
+****************************
+
+1. DEFINITIONS
+Pour l'interprétation de la présente politique de confidentialité de la plateforme « [nom de la plateforme] », les termes employés ci-après, au pluriel ou au singulier, sont définis de la façon suivante :
+Contributeur commerçant, ci-après "commerçant" : *si système de compte choisi : désigne toute personne physique ou morale ayant créé un « Compte commerçant » par lequel il accepte les conditions générale, et se connecte à l'aide d'un identifiant et mot de passe qui lui sont strictement personnels et confidentiels et qui intervient sur la Plateforme soit pour publier une proposition + *option si commentaires possibles : soit pour commenter une proposition accessible sur la Plateforme.
+Contributeur commerçant : *autre système : désigne toute personne ayant contacté l'Editeur de la plateforme, via celle-ci ou email, et accepté les conditions générales, pour faire publier (*et commenter) une proposition sur la plateforme.
+Contributeur consommacteur, ci-après "consommacteur" : *si système de compte choisi : désigne toute personne physique ayant créé un « Compte consommacteur » par lequel il accepte les conditions générales, et se connecte à l'aide d'un identifiant et mot de passe qui lui sont strictement personnels et confidentiels et qui intervient sur la Plateforme soit pour publier une proposition + *option si commentaires possibles : soit pour commenter une proposition accessible sur la Plateforme.
+Contributeur consommacteur, ci-après "consommacteur" : *autre système : désigne toute personne ayant contacté l'Editeur de la plateforme, via celle-ci ou email, et accepté les conditions générales, pour faire publier (*et commenter) une proposition sur la plateforme.
+Contribution : désigne toute proposition ou avis sur une proposition rédigé par un Contributeur et susceptible d’être modifié dans un délai de [délai en lettres et en chiffres].
+[Nom de la plateforme] : désigne la Plateforme en ligne accessible à tous et regroupant les Propositions des Contributeurs et de l’Editeur.
+Contenu : désigne l'ensemble des éléments constituants l’information présente sur la plateforme, notamment textes – images – vidéos.
+*Compte : désigne l'espace personnel d'un commerçant ou consommacteur sur le site [URL de la plateforme] lui permettant d'accéder à des contenus spécifiques et de contribuer à la création de Contenus sur la Plateforme.
+Plateforme : désigne l'outil dématérialisé [nom de la plateforme], accessible à tous via le Site et par laquelle les Utilisateurs peuvent contribuer via leur « Compte ».
+Visiteur : désigne toute personne ayant accès et/ou utilisant le Site sans avoir pour autant ouvert un « Compte » ou utilisé un Service.
+
+[*si besoin] 2. COOKIES
+L’accès à certains contenus de [URL plateforme] suppose que l’utilisateur nous transmette des données personnelles le concernant. L’utilisateur est informé que lors de ses visites sur [URL plateforme], un cookie peut être implanté dans son ordinateur. Ces cookies permettent :
+- de faciliter la navigation sur le site en enregistrant des informations relatives à la navigation de l’ordinateur de l’utilisateur (les pages consultées, la date et l’heure de la consultation) afin de se souvenir des préférences et de faciliter les visites ultérieures ;
+- d’aider à personnaliser le contenu et les publicités qui sont présentées pendant la consultation du site ;
+- de décompter les pages consultées ; 
+- réaliser du marketing automatisé.
+L’utilisateur peut s’opposer à l’enregistrement de cookies, ou être prévenu avant d’accepter les cookies, en configurant son ordinateur.
+
+3. GESTION DES DONNEES PERSONNELLES
+Le visiteur et contributeur est informé des réglementations concernant la communication marketing, la loi du 21 Juin 2014 pour la confiance dans l’Economie Numérique, la Loi Informatique et Liberté du 06 Août 2004 ainsi que du Règlement Général sur la Protection des Données (RGPD : n° 2016-679).
+
+3.1 RESPONSABLES DE LA COLLECTE DE DONNEES
+Pour les Données Personnelles collectées dans le cadre de la création du compte personnel du contributeur et de sa navigation sur le Site, le responsable du traitement des Données Personnelles est : [organisation] est représenté par, son représentant légal [prénom nom].
+En tant que responsable du traitement des données qu’il collecte, la plateforme s’engage à respecter le cadre des dispositions légales en vigueur. Chaque fois que la plateforme traite des Données Personnelles, [URL plateforme] prend toutes les mesures raisonnables pour s’assurer de l’exactitude et de la pertinence des Données Personnelles au regard des finalités pour lesquelles la plateforme les traite.
+
+3.2 FINALITES DES DONNEES COLLECTEES
+La plateforme "[nom de la plateforme]" est susceptible de traiter tout ou partie des données :
+- pour permettre la navigation sur le Site ;
+- pour prévenir et lutter contre la fraude informatique (spamming, hacking…) : matériel informatique utilisé pour la navigation, l’adresse IP, le mot de passe (hashé) ;
+- pour mener des enquêtes de satisfaction facultatives sur la plateforme : adresse email ;
+- pour mener des campagnes de communication : adresse email ;
+La plateforme ne commercialise pas vos données personnelles qui sont donc uniquement utilisées par nécessité ou à des fins statistiques et d’analyses.
+
+3.3 DROITS D'ACCES, DE MODIFICATION, D'OPPOSITION
+Conformément à la réglementation européenne en vigueur, les visiteurs de [URL plateforme] disposent des droits suivants :
+- droit d’accès (article 15 RGPD) et de rectification (article 16 RGPD), de mise à jour, de complétude des données des visiteurs droit de verrouillage ou d’effacement des données des Utilisateurs à caractère personnel (article 17 du RGPD), lorsqu’elles sont inexactes, incomplètes, équivoques, périmées, ou dont la collecte, l’utilisation, la communication ou la conservation est interdite ;
+- droit de retirer à tout moment un consentement (article 13-2c RGPD) ;
+- droit à la limitation du traitement des données des Utilisateurs (article 18 RGPD) ;
+- droit d’opposition au traitement des données des Utilisateurs (article 21 RGPD) ;
+- droit à la portabilité des données que les Utilisateurs auront fournies, lorsque ces données font l’objet de traitements automatisés fondés sur leur consentement ou sur un contrat (article 20 RGPD) ;
+- droit de définir le sort des données des Utilisateurs après leur mort et de choisir à qui [URL plateforme] devra communiquer (ou non) ses données à un tiers qu’ils aura préalablement désigné ;
+Dès que la plateforme a connaissance du décès d’un Utilisateur et à défaut d’instructions de sa part, la plateforme s’engage à détruire ses données, sauf si leur conservation s’avère nécessaire à des fins probatoires ou pour répondre à une obligation légale.
+
+Si le visiteur souhaite savoir comment [URL plateforme] utilise ses Données Personnelles, demander à les rectifier ou s’oppose à leur traitement, le visiteur peut contacter [organisation] par écrit à l’adresse suivante :
+[adresse postale de l'organisation].
+Dans ce cas, le visiteur doit indiquer les Données Personnelles qu’il souhaiterait que la plateforme corrige, mette à jour ou supprime, en s’identifiant précisément avec une copie d’une pièce d’identité.
+Les demandes de suppression de Données Personnelles seront soumises aux obligations qui sont imposées à la plateforme par la loi, notamment en matière de conservation ou d’archivage des documents. Enfin, les Utilisateurs de la plateforme peuvent déposer une réclamation auprès des autorités de contrôle, et notamment de la CNIL (https://www.cnil.fr/fr/plaintes).
+
+3.4 NON-COMMUNICATION DES DONNEES PERSONNELLES
+La plateforme s’interdit de traiter, héberger ou transférer les Informations collectées sur ses contributeurs vers un pays situé en dehors de l’Union européenne ou reconnu comme « non adéquat » par la Commission européenne sans en informer préalablement le contributeur. Pour autant, la plateforme reste libre du choix de ses sous-traitants techniques à la condition qu’il présentent les garanties suffisantes au regard des exigences du Règlement Général sur la Protection des Données (RGPD : n° 2016-679).
+La plateforme s’engage à prendre toutes les précautions nécessaires afin de préserver la sécurité des Informations et notamment qu’elles ne soient pas communiquées à des personnes non autorisées. Cependant, si un incident impactant l’intégrité ou la confidentialité des Informations du contributeur est portée à la connaissance de la plateforme, celle-ci devra dans les meilleurs délais informer le contributeur et lui communiquer les mesures de corrections prises.
+Les Données Personnelles des contributeurs peuvent être traitées par des sous-traitants (prestataires de services), exclusivement afin de réaliser les finalités de la présente politique.
+Dans la limite de leurs attributions respectives et pour les finalités rappelées ci-dessus, les principales personnes susceptibles d’avoir accès aux données des contributeurs de la plateforme sont principalement les agents de notre service [service de l'organisation].
+
+4. NOTIFICATION D'INCIDENT
+Quels que soient les efforts fournis, aucune méthode de transmission sur Internet et aucune méthode de stockage électronique n’est complètement sûre. Nous ne pouvons en conséquence pas garantir une sécurité absolue. Si nous prenions connaissance d’une brèche de la sécurité, nous avertirions les visiteurs et/ou contributeurs concernés afin qu’ils puissent prendre les mesures appropriées. Nos procédures de notification d’incident tiennent compte de nos obligations légales, qu’elles se situent au niveau national ou européen.
+Nous nous engageons à informer pleinement nos visiteurs et contributeurs de toutes les questions relevant de la sécurité de leur compte et à leur fournir toutes les informations nécessaires pour les aider à respecter leurs propres obligations réglementaires en matière de reporting.
+Aucune information personnelle du contributeur du site [nom de la plateforme] n’est publiée à l’insu de celui-ci, échangée, transférée, cédée ou vendue sur un support quelconque à des tiers.
+
+Lors du traitement des Données Personnelles, la plateforme prend toutes les mesures raisonnables visant à les protéger contre toute perte, utilisation détournée, accès non autorisé, divulgation, altération ou destruction.

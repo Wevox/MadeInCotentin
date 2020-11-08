@@ -2,6 +2,7 @@ import 'package:cherboug/menu/menu.dart';
 import 'package:cherboug/sales/Sale.dart';
 import 'package:cherboug/sales/SalesList.dart';
 import 'package:cherboug/shops/shops.dart';
+import 'package:cherboug/time.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
@@ -84,9 +85,9 @@ class ChargementState extends State<Chargement> {
           description: element["description"] ?? "",
           name: element["name"] ?? "",
           photo: element['photo'],
-          endDateTime: DateTime.parse(element["end_datetime"] + " 00:00:00"),
+          endDateTime: DateTime.parse(element["end_datetime"] + " 23:59:59"),
           startDateTime:
-              DateTime.parse(element["start_datetime"] + " 23:59:59"),
+              DateTime.parse(element["start_datetime"] + " 00:00:00"),
         );
 
         configData.shops[int.parse(element["id_shop"])].sales
@@ -109,6 +110,7 @@ class ChargementState extends State<Chargement> {
                         height: 32,
                       ),
                     )),
+                // body: CountDownTimer(),
                 body: SalesList(),
               drawer: Menu(0),
 				)));

@@ -7,6 +7,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 import 'package:cherboug/config.dart' as configData;
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class ShopView extends StatefulWidget {
   Shop shop;
@@ -124,27 +125,44 @@ class ShopViewState extends State<ShopView> {
             ],
           ),
         ),
-        Padding(
-          padding: EdgeInsets.only(
-            left: 20,
-            top: 10,
+          Padding(
+              padding: EdgeInsets.only(
+                  left: 20,
+                  top: 10,
+              ),
+              child: Row(
+                  children: [
+                      Padding(
+                          padding: EdgeInsets.only(right: 20),
+                          child: Icon(
+                              Icons.language,
+                              size: 30,
+                              color: color,
+                          )),
+                      Text(
+                          this.widget.shop.website,
+                          style: TextStyle(fontSize: 15),
+                      )
+                  ],
+              ),
           ),
-          child: Row(
-            children: [
-              Padding(
-                  padding: EdgeInsets.only(right: 20),
-                  child: Icon(
-                    Icons.language,
-                    size: 30,
-                    color: color,
-                  )),
-              Text(
-                this.widget.shop.website,
-                style: TextStyle(fontSize: 15),
-              )
-            ],
+          Padding(
+              padding: EdgeInsets.only(
+                  left: 20,
+                  top: 10,
+              ),
+              child: Row(
+                  children: [
+                      Padding(
+                          padding: EdgeInsets.only(right: 20),
+                          child: FaIcon(FontAwesomeIcons.facebook, size: 30, color: color,)),
+                      Text(
+                          this.widget.shop.facebook,
+                          style: TextStyle(fontSize: 15),
+                      )
+                  ],
+              ),
           ),
-        ),
         Padding(
             padding: EdgeInsets.only(left: 20, right: 20, top: 10),
             child: Row(

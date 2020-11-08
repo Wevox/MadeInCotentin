@@ -8,6 +8,7 @@ import 'package:flutter/material.dart';
 
 import 'package:cherboug/config.dart' as configData;
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class ShopView extends StatefulWidget {
   Shop shop;
@@ -28,14 +29,20 @@ class ShopViewState extends State<ShopView> {
     List<Widget> salesListTiles = new List();
 
     if (this.widget.shop.sales.length > 0) {
-        salesListTiles.add(Text(
-            (this.widget.shop.sales.length.toString() + " promotion"+ ((this.widget.shop.sales.length > 1) ? "s":"") +" en cours\n").toUpperCase(),
-            style: TextStyle(fontSize: 20, ),
-        ));
+      salesListTiles.add(Text(
+        (this.widget.shop.sales.length.toString() +
+                " promotion" +
+                ((this.widget.shop.sales.length > 1) ? "s" : "") +
+                " en cours\n")
+            .toUpperCase(),
+        style: TextStyle(
+          fontSize: 20,
+        ),
+      ));
       this.widget.shop.sales.forEach((element) {
         salesListTiles.add(SaleTile(
           sale: configData.sales[element],
-            tappable: false,
+          tappable: false,
         ));
       });
     } else {
@@ -125,44 +132,64 @@ class ShopViewState extends State<ShopView> {
             ],
           ),
         ),
-          Padding(
-              padding: EdgeInsets.only(
-                  left: 20,
-                  top: 10,
-              ),
-              child: Row(
-                  children: [
-                      Padding(
-                          padding: EdgeInsets.only(right: 20),
-                          child: Icon(
-                              Icons.language,
-                              size: 30,
-                              color: color,
-                          )),
-                      Text(
-                          this.widget.shop.website,
-                          style: TextStyle(fontSize: 15),
-                      )
-                  ],
-              ),
+        Padding(
+          padding: EdgeInsets.only(
+            left: 20,
+            top: 10,
           ),
-          Padding(
-              padding: EdgeInsets.only(
-                  left: 20,
-                  top: 10,
-              ),
-              child: Row(
-                  children: [
-                      Padding(
-                          padding: EdgeInsets.only(right: 20),
-                          child: FaIcon(FontAwesomeIcons.facebook, size: 30, color: color,)),
-                      Text(
-                          this.widget.shop.facebook,
-                          style: TextStyle(fontSize: 15),
-                      )
-                  ],
-              ),
+          child: Row(
+            children: [
+              Padding(
+                  padding: EdgeInsets.only(right: 20),
+                  child: Icon(
+                    Icons.language,
+                    size: 30,
+                    color: color,
+                  )),
+              InkWell(
+                child: Text(
+                  this.widget.shop.website,
+                  style: TextStyle(fontSize: 15),
+                ),
+                onTap: () {
+                  if (this.widget.shop.website != null &&
+                      this.widget.shop.website != "") {
+                    openLink(this.widget.shop.website);
+                  }
+                },
+              )
+            ],
           ),
+        ),
+        Padding(
+          padding: EdgeInsets.only(
+            left: 20,
+            top: 10,
+          ),
+          child: Row(
+            children: [
+              Padding(
+                  padding: EdgeInsets.only(right: 20),
+                  child: FaIcon(
+                    FontAwesomeIcons.facebook,
+                    size: 30,
+                    color: color,
+                  )),
+              InkWell(
+                child: Text(
+                  this.widget.shop.facebook,
+                  style: TextStyle(fontSize: 15),
+                ),
+                onTap: () {
+                  if (this.widget.shop.facebook != null &&
+                      this.widget.shop.facebook != "") {
+                    openLink(this.widget.shop.facebook);
+                  }
+                },
+              )
+            ],
+          ),
+        ),
         Padding(
             padding: EdgeInsets.only(left: 20, right: 20, top: 10),
             child: Row(
@@ -210,5 +237,15 @@ class ShopViewState extends State<ShopView> {
             ))
       ],
     );
+  }
+
+  Future<void> openLink(url) async {
+    print("ouverture de " + url);
+
+    if (await canLaunch(url)) {
+      await launch(url);
+    } else {
+      // throw 'Could not launch ' + urlAdmin;
+    }
   }
 }

@@ -36,6 +36,7 @@ dependencies:
   expandable: ^4.1.4
   flutter_countdown_timer: ^1.4.0
   font_awesome_flutter: ^8.10.0
+  url_launcher: ^5.7.10
 
 dev_dependencies:
   flutter_test:
